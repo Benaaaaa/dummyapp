@@ -1,0 +1,2 @@
+class RebaseAndMergeWithSquashing < ApplicationRecord
+end
