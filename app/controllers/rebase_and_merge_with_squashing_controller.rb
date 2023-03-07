@@ -1,0 +1,2 @@
+class RebaseAndMergeWithSquashingController < ApplicationController
+end
